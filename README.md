@@ -12,6 +12,8 @@ This script handily merges the fancy (not in the example however) print shop pag
 
 Usage
 -----
+This script requires [pyPdf](http://pybrary.net/pyPdf/). It was written with version 1.13 with Python 2.7
+
 The input directory has two sub directories - address and location
 - address - This is where you place the address report output
 - location - This is where you place the sheet you want to inject between each address page
